@@ -1,0 +1,17 @@
+venv/
+.idea/
+__pycache__/
+.pytest_cache/
+
+*.iml
+
+*.pyc
+*.pyo
+*.pyd
+
+
+*.log
+*.swp
+*.bak
+*.tmp
+*.lock
