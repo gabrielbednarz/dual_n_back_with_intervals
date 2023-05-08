@@ -8,3 +8,12 @@ to type the interval between the current and previous sound. There are 12 sounds
 within one octave, and 6 pictures. When dealing with intervals, you type the number n (-11 <= n <= 11), 
 which signifies how many semitones apart the presented piano sounds are. Due to some issues with 
 the playsound() function, files containing sounds are named using alphabet letters.
+
+
+## Install required dependencies
+
+Run:
+
+```bash
+pip install -r requirements.txt
+```
